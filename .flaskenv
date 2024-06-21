@@ -1,1 +1,2 @@
-FLASK_APP=calmcrow.py
+FLASK_APP=calmcrow_app.py
+FLASK_DEBUG=1

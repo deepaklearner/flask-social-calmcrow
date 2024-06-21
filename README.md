@@ -27,3 +27,7 @@ flask --app calmcrow_app.py --debug run
 # Generate requirements
 
 pip freeze > requirements.txt
+
+# Nice extensions
+
+Jinja2 Snippet Kit
