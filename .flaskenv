@@ -1,2 +1,1 @@
 FLASK_APP=calmcrow_app.py
-FLASK_DEBUG=1
