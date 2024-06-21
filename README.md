@@ -23,3 +23,7 @@ python app.py
 # With reloader
 
 flask --app calmcrow_app.py --debug run
+
+# Generate requirements
+
+pip freeze > requirements.txt
