@@ -5,7 +5,7 @@ venv\Scripts\activate
 or
 .\venv\Scripts\activate.bat
 
-Linus:
+Linux:
 source ./env/bin/Activate
 
 In windows:
@@ -28,6 +28,6 @@ flask --app calmcrow_app.py --debug run
 
 pip freeze > requirements.txt
 
-# Nice extensions
+# Useful vs code extensions
 
 Jinja2 Snippet Kit
